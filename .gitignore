@@ -1,3 +1,16 @@
 build
 ~*
 *~
+
+# Files from Debian packaging output
+debian/com.github.ronnydo.colorpicker/
+debian/com.github.ronnydo.colorpicker.debhelper.log
+debian/com.github.ronnydo.colorpicker.substvars
+debian/.debhelper/
+debian/files
+debian/changelog
+debian/com.github.ronnydo.colorpicker.prerm.debhelper
+debian/com.github.ronnydo.colorpicker.postrm.debhelper
+debian/com.github.ronnydo.colorpicker.postinst.debhelper
+debian/com.github.ronnydo.colorpicker.triggers
+debian/tmp/
