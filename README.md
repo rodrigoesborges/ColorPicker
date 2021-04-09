@@ -1,6 +1,21 @@
 [![Build Status](https://travis-ci.com/RonnyDo/ColorPicker.svg?branch=master)](https://travis-ci.com/RonnyDo/ColorPicker)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+Forked from [@RonnyDo/ColorPicker](https://github.com/RonnyDo/ColorPicker)
+
+Extra feature:
+* Automatically copy picked color to clipboard
+
+Debian Package:
+
+`debuild -us -uc`
+
+[com.github.ronnydo.colorpicker_1.1.6_amd64.deb](https://github.com/Zyten/ColorPicker/releases/download/1.1.6/com.github.ronnydo.colorpicker_1.1.6_amd64.deb)
+
+_Tested on elementary OS 5.1.7 Hera (Based on Ubuntu 18.04.4 LTS)_
+
+<hr>
+
 # Color Picker
 
 One Color Picker to rule them all! No overhelming menus or settings. An easy tool with the features you need.
