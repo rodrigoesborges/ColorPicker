@@ -1,3 +1,8 @@
+com.github.ronnydo.colorpicker (1.1.6) bionic; urgency=low
+  * Copy picked color to clipboard automatically
+
+ -- Ruban Selvarajah <sruban707@hotmail.com>  Fri, 09 Apr 2021 16:57:00 +0800
+
 com.github.ronnydo.colorpicker (1.1.5) bionic; urgency=low
 
   * Fix travis build problem
